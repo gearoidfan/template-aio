@@ -1,5 +1,11 @@
 # @repo/tsconfig
 
+## 0.7.9
+
+### Patch Changes
+
+- 7d8ee8b: AI Summary is easier
+
 ## 0.7.8
 
 ## 0.7.7
