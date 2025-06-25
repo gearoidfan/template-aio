@@ -1,5 +1,12 @@
 # @repo/template-vite-react-19
 
+## 0.7.9
+
+### Patch Changes
+
+- 7d8ee8b: AI Summary is easier
+  - @repo/css-reset@0.7.9
+
 ## 0.7.8
 
 ### Patch Changes
